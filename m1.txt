@@ -1,4 +1,5 @@
 MyClass has beautiful participants
 They are brilliant and wise.
 they are good
+they are ready
 
